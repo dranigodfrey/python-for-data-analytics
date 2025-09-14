@@ -1,1 +1,1 @@
-# python-for-data-analytics
+# Python for Data Analytics - Course

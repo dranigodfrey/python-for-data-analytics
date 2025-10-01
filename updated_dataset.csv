@@ -1,0 +1,5 @@
+OrderID,CustomerName,Product,Quantity,UnitPrice,OrderDate,Region,Category
+1001,John Smith,Apple iPhone 14,10.0,799.99,2025-09-01,Europe,Smartphones
+1002,Jane Doe,Samsung Galaxy S23,5.0,699.99,2025-09-02,South America,Smartphones
+...,,,,,,North America,Other
+1100,Uma King,Apple HomePod Mini,5.0,99.0,2025-12-07,Europe,Smart Home

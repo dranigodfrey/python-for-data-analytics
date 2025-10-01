@@ -1,0 +1,101 @@
+OrderID,CustomerName,Product,Quantity,UnitPrice,OrderDate
+1001,John Smith,Apple iPhone 14,10,799.99,2025-09-01
+1002,Jane Doe,Samsung Galaxy S23,5,699.99,2025-09-02
+1003,Alice Brown,Sony WH-1000XM5 Headphones,,349.99,2025-09-02
+1004,Bob Davis,Apple MacBook Air,8,999.99,2025-09-03
+1005,Charlie Lee,Dell XPS 13,3,,2025-09-04
+1006,Eva Green,Apple iPad Pro,12,799.99,
+1007,Frank Hall,Google Pixel 7,6,599.99,2025-09-05
+1008,Grace Kim,Amazon Echo Dot,7,49.99,2025-09-06
+1009,Henry Lopez,Nintendo Switch,11,299.99,2025-09-07
+1010,Isabel Moore,Samsung QLED TV,,1499.99,2025-09-08
+1011,Jack White,Apple Watch Series 8,15,399.99,2025-09-09
+1012,Karen Young,Fitbit Charge 5,4,129.95,2025-09-10
+1013,Larry King,Bose SoundLink Speaker,10,199.99,2025-09-11
+1014,Maria Scott,Canon EOS R6,5,2499,2025-09-12
+1015,Nancy Allen,Samsung Galaxy Tab S8,9,,2025-09-13
+1016,Oscar Hill,Apple AirPods Pro,,249,2025-09-14
+1017,Paul Wright,Dyson V11 Vacuum,7,599.99,2025-09-15
+1018,Quincy Adams,LG OLED TV,6,1799.99,2025-09-16
+1019,Rachel Clark,"Apple iMac 24""",8,1299.99,2025-09-17
+1020,Steve Baker,Microsoft Surface Pro 8,5,1099.99,
+1021,Tina Evans,Google Nest Hub,11,99.99,2025-09-19
+1022,Uma Carter,Sony PlayStation 5,14,499.99,2025-09-20
+1023,Victor Reed,Apple HomePod Mini,8,99,2025-09-21
+1024,Wendy Cooper,Logitech MX Master 3,7,99.99,2025-09-22
+1025,Xander Bell,Apple Magic Keyboard,,99,2025-09-23
+1026,Yara Perez,Nintendo Switch Lite,9,199.99,2025-09-24
+1027,Zack Morris,Amazon Kindle Paperwhite,12,129.99,2025-09-25
+1028,Amanda Gray,Apple Pencil,11,129.99,2025-09-26
+1029,Brandon Long,Samsung Galaxy Buds Pro,6,199.99,
+1030,Cynthia Ross,GoPro HERO10,5,399.99,2025-09-28
+1031,Derek Reed,Apple TV 4K,10,179.99,2025-09-29
+1032,Elena Young,Samsung SmartThings Hub,7,69.99,2025-09-30
+1033,Felicia Stone,Nest Learning Thermostat,,249.99,2025-10-01
+1034,George West,Apple Mac Mini,9,699.99,2025-10-02
+1035,Hannah Fox,Sony Bravia TV,12,1399.99,2025-10-03
+1036,Ian Hill,Dell UltraSharp Monitor,6,499.99,2025-10-04
+1037,Julia Moss,Apple AirTag,5,,2025-10-05
+1038,Kyle Lane,Amazon Fire TV Stick,8,49.99,2025-10-06
+1039,Linda Price,Apple MacBook Pro,10,1999.99,2025-10-07
+1040,Mark Adams,Samsung Galaxy Watch 5,13,329.99,
+1041,Nina James,Google Pixel Buds,7,179.99,2025-10-09
+1042,Oliver Grant,Apple iPhone SE,5,429,2025-10-10
+1043,Patricia White,Logitech C920 Webcam,,79.99,2025-10-11
+1044,Quinn Hall,Microsoft Xbox Series X,6,499.99,2025-10-12
+1045,Rita Clark,Bose QuietComfort Earbuds,9,279.99,2025-10-13
+1046,Sammy Lee,Apple iPad Air,11,599.99,2025-10-14
+1047,Terry Young,Samsung Galaxy Tab A7,8,229.99,2025-10-15
+1048,Una Cooper,Fitbit Versa 3,7,,2025-10-16
+1049,Vincent Ross,Apple Magic Mouse,10,79.99,2025-10-17
+1050,Willow Davis,Nintendo Switch OLED,5,349.99,2025-10-18
+1051,Xena Morgan,Amazon Echo Show,6,129.99,
+1052,Yusuf King,Apple AirPods Max,12,549,2025-10-20
+1053,Zara Quinn,Sony WF-1000XM4,9,279.99,2025-10-21
+1054,Aaron Bell,Google Nest Audio,,99.99,2025-10-22
+1055,Bella Price,Apple iMac Pro,7,4999.99,2025-10-23
+1056,Carl Fox,Dyson Airwrap,10,549.99,2025-10-24
+1057,Daisy Lane,Apple iPhone 13,11,699.99,2025-10-25
+1058,Eddie Grant,Samsung Galaxy Z Flip 4,8,999.99,2025-10-26
+1059,Fiona Moss,GoPro MAX,6,499.99,2025-10-27
+1060,Gregory James,Apple Watch SE,5,279,2025-10-28
+1061,Holly Adams,Microsoft Surface Laptop 4,9,1299.99,
+1062,Ivan West,Sony Alpha a7 III,7,1999.99,2025-10-30
+1063,Jill Scott,Nintendo Switch Pro Controller,,69.99,2025-10-31
+1064,Kevin Bell,Apple HomePod,10,299,2025-11-01
+1065,Lauren Davis,Samsung Galaxy Buds Live,8,169.99,2025-11-02
+1066,Michael Fox,Amazon Fire Tablet,6,149.99,2025-11-03
+1067,Nancy White,Apple iPad Mini,11,499.99,2025-11-04
+1068,Owen Young,Samsung Smart TV,9,1299.99,2025-11-05
+1069,Paula King,Bose Home Speaker 500,5,299.99,
+1070,Quentin Price,Apple iPhone 12,12,599.99,2025-11-07
+1071,Rachel Lane,Google Nest Thermostat,7,129.99,2025-11-08
+1072,Steve Hall,Dell G5 Gaming Laptop,6,1199.99,2025-11-09
+1073,Tina Moore,Sony PlayStation VR, ,349.99,2025-11-10
+1074,Ulysses Ross,Apple TV 4K,8,179.99,2025-11-11
+1075,Victoria King,Samsung Galaxy Watch Active 2,10,249.99,2025-11-12
+1076,Will Murphy,Apple AirPods,9,159,2025-11-13
+1077,Xavier Green,Nintendo Switch Lite,5,199.99,2025-11-14
+1078,Yvonne Smith,Amazon Echo Dot,7,49.99,
+1079,Zane Reed,Apple Magic Keyboard,11,99,2025-11-16
+1080,Alice Bell,Bose SoundLink Revolve,6,199.99,2025-11-17
+1081,Brian White,Sony WF-SP800N Earbuds,,199.99,2025-11-18
+1082,Cara Lee,Apple iPhone 14 Pro,8,999.99,2025-11-19
+1083,David Young,Samsung Galaxy Tab S7,9,649.99,2025-11-20
+1084,Elaine Moore,Dyson V10 Vacuum,10,499.99,2025-11-21
+1085,Fred King,Apple iPad Pro,5,799.99,
+1086,Gina Adams,Google Pixel 6,7,599.99,2025-11-23
+1087,Harry Scott,Microsoft Surface Pro 7,6,899.99,2025-11-24
+1088,Irene Clark,Apple Watch Series 7,11,399.99,2025-11-25
+1089,Jason Price,Sony A8H OLED TV,8,1799.99,2025-11-26
+1090,Kate Hill,Nintendo Switch,5,299.99,2025-11-27
+1091,Liam Jones,Amazon Fire HD 10,7,149.99,2025-11-28
+1092,Mia Brooks,Apple AirPods Pro,9,249,
+1093,Nate Bell,Samsung Galaxy S22,6,799.99,2025-11-30
+1094,Olivia White,Apple MacBook Air M2,10,1199.99,2025-12-01
+1095,Paul Evans,GoPro HERO9,,399.99,2025-12-02
+1096,Queen Stone,Apple iPhone SE 2022,8,429,2025-12-03
+1097,Ryan Lee,Dyson Pure Cool,12,549.99,2025-12-04
+1098,Sara Adams,Samsung Galaxy Buds Pro,7,199.99,2025-12-05
+1099,Tom Harris,Apple iPad Mini 6,9,499.99,2025-12-06
+1100,Uma King,Apple HomePod Mini,5,99,2025-12-07

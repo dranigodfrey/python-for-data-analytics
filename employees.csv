@@ -1,0 +1,23 @@
+EmployeeID,FirstName,LastName,Department,JobTitle,Email,Phone,HireDate,Salary,ManagerID,Location,Status
+1001,John,Smith,sales ,Sales Manager,john.smith@example.com ,+1-555-1234,2015/06/01,85000,,New York,active
+1002,Jane,Doe,Marketing,Marketing Specialist,jane.doe@exmple.com,555-2345,15-07-2018,62000,1005,Chicago,left
+1003,Alice,Brown,IT,System Administrator,alice.brown@example.com,555-3456,2019-03-20,75000,1008,San Francisco,active
+1004,Bob,Davis,finance,Financial Analyst,bob.davis@example,555-4567,2016-11-30,70000,1010,New York,left
+1005,Charlie,Lee,Marketing,Marketing Manger,charlie.lee@example.com,555-5678,02/14/2013,90000,,Chicago,active
+1006,Eva,Green,HR,HR Coordinator,,555-6789,2020-1-10,58000,1012,San Francisco,active
+1007,Frank,Hall,Sales,Sales Rep,frank.hall@example.com,555-7890,2017-08-22,65000,1001, New York,left
+1008,Grace,Kim,it,Software Engineer,grace.kim@example.com,555-8901,2014-05-19,95000,,San Francisco,active
+1008,Grace,Kim,IT,Software Engineer,grace.kim@example.com,555-8901,2014-05-19,95000,,San Francisco,active
+1009,Henry,Lopez,Finance,Accountant,henry.lopez@example.com,555-9012,Dec 5 2019,68000,1004,New York,left
+1010,Isabel,Moore,Finance,Finance Manager,isabel.moore@example.com,555-0123,2012/09/17,98000,,New York,active
+1011,Jack,White,Sales,Sales Rep,jack.white@example.com,555-1235,2018-06-29,64000,1001,New York,left
+1012,Karen,Young,HR,HR Manager,karen.young@example,555-2346,2011-04-25,91000,,San Francisco,active
+1013,Larry,King,Marketing,Content Strategist,larry.king@example.com,555-3457,2021/03/02,60000,1005,Chicago,active
+1014,Maria,Simmons,IT,DevOps Engineer,maria.scott@example.com,555-4568,2017-7-15,88000,1008,San Francisco,active
+1015,Nancy,Allen,Finance,Payroll Specialist,nancy.allen@example.com,555-5679,2016-12-10,62k,1010,New York,left
+1016,Oscar,Hill,HR,Recruiter,oscar.hill@example.com,,2019-08-08,59000,1012,San Francisco,active
+1017,Paul,Wright,Sales,Sales Rep,paul.wright@example.com,555-7891,2018-10-19,63000,1001,New York,left
+1018,Quincy,Adams,IT,Software Engineer,quincy.adams@example.com,555-8902,2015-11-21,92000,1008,San Francisco,active
+1019,Rachel,Clark,Marketing,Social Media Specialist,rachel.clark@example,555-9013,2019-04-30,61000,1005,Chicago,left
+1020,Steve,Baker,Finance,Financial Analyst,steve.baker@example.com,555-0124,2017-01-15,70000,1010,New York,active
+

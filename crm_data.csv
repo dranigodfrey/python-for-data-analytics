@@ -1,0 +1,12 @@
+LeadID,FirstName,LastName,Email,Phone,Company,Industry,LeadSource,Status,CreatedDate,Country,Notes
+101,Alice,Johnson,alice.johnson@example.com,+1 (555) 123-4567,Acme Inc,technology,web,new,2023/04/15,USA,"Met at webinar, follow up"
+102,Bob,smith,bob.smith(at)example.com,5551234567,acme inc.,Tech,Webform,Contacted,15-04-2023,US,"Requested quote"
+103,  Carol ,Williams,carol.williams@example.com,,ACME INC,IT,Linkedin,Qualified,April 15 2023,United States,"Needs proposal soon"
+,,Mike,Davis,mike.davis@example,555.321.7654,Globex Corp,Finance,Email,Contacted,2023-04-16,us,"Invalid email format"
+105,Jane,O'Conner,jane.o'conner@example.com,,globex corp,Fin.,Cold Call,Lost,16/04/2023,USA,"Said not interested"
+106,John,Doe,john.doe@example.com,001-555-456-7890,Wayne Enterprises,Technology,Web,new,2023-04-17,United States,"New lead, high value"
+107,Michael,Lee,michael.lee@example.com,555-7890,Stark Industries,tech,LinkedIn,Contacted,04-17-2023,U.S.,"Meeting scheduled"
+108,Sarah,Connor,,5559991234,Stark Industries,,Facebook,Qualified,2023.04.17,USA,"No email provided"
+109,George,,george@sample,123-4567,Acme Inc,technology,Email,Contacted,2023-04-18,US,"No last name"
+110,Alice,Johnson,alice.johnson@example.com,+1 (555) 123-4567,Acme Inc,Tech,web,Contacted,2023/04/15,USA,"DUPLICATE record"
+

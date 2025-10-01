@@ -1,0 +1,38 @@
+OrderID,CustomerName,Product,Quantity,UnitPrice,OrderDate,Region,Category
+1001,John Smith,Apple iPhone 14,10,799.99,2025-09-01,Europe,Smartphones
+1002,Jane Doe,Samsung Galaxy S23,5,699.99,2025-09-02,Asia,Smartphones
+1003,Alice Brown,Sony WH-1000XM5 Headphones,,349.99,2025-09-02,North America,Other
+1004,Bob Davis,Apple MacBook Air,8,999.99,2025-09-03,Australia,Laptops
+1005,Charlie Lee,Dell XPS 13,3,,2025-09-04,South America,Laptops
+1006,Eva Green,Apple iPad Pro,12,799.99,,Europe,Tablets
+1007,Frank Hall,Google Pixel 7,6,599.99,2025-09-05,Asia,Smartphones
+1008,Grace Kim,Amazon Echo Dot,7,49.99,2025-09-06,North America,Smart Home
+1009,Henry Lopez,Nintendo Switch,11,299.99,2025-09-07,Australia,Gaming
+1010,Isabel Moore,Samsung QLED TV,,1499.99,2025-09-08,South America,Television
+1011,Jack White,Apple Watch Series 8,15,399.99,2025-09-09,Europe,Wearables
+1012,Karen Young,Fitbit Charge 5,4,129.95,2025-09-10,Asia,Other
+1013,Larry King,Bose SoundLink Speaker,10,199.99,2025-09-11,North America,Audio
+1014,Maria Scott,Canon EOS R6,5,2499,2025-09-12,Australia,Cameras
+1015,Nancy Allen,Samsung Galaxy Tab S8,9,,2025-09-13,South America,Tablets
+1016,Oscar Hill,Apple AirPods Pro,,249,2025-09-14,Europe,Audio
+1017,Paul Wright,Dyson V11 Vacuum,7,599.99,2025-09-15,Asia,Appliances
+1018,Quincy Adams,LG OLED TV,6,1799.99,2025-09-16,North America,Television
+1019,Rachel Clark,"Apple iMac 24""",8,1299.99,2025-09-17,Australia,Laptops
+1020,Steve Baker,Microsoft Surface Pro 8,5,1099.99,,South America,Laptops
+1021,Tina Evans,Google Nest Hub,11,99.99,2025-09-19,Europe,Smart Home
+1022,Uma Carter,Sony PlayStation 5,14,499.99,2025-09-20,Asia,Gaming
+1023,Victor Reed,Apple HomePod Mini,8,99,2025-09-21,North America,Smart Home
+1024,Wendy Cooper,Logitech MX Master 3,7,99.99,2025-09-22,Australia,Accessories
+1025,Xander Bell,Apple Magic Keyboard,,99,2025-09-23,South America,Accessories
+1026,Yara Perez,Nintendo Switch Lite,9,199.99,2025-09-24,Europe,Gaming
+1027,Zack Morris,Amazon Kindle Paperwhite,12,129.99,2025-09-25,Asia,Tablets
+1028,Amanda Gray,Apple Pencil,11,129.99,2025-09-26,North America,Accessories
+1029,Brandon Long,Samsung Galaxy Buds Pro,6,199.99,,Australia,Audio
+1030,Cynthia Ross,GoPro HERO10,5,399.99,2025-09-28,South America,Cameras
+1031,Derek Reed,Apple TV 4K,10,179.99,2025-09-29,Europe,Smart Home
+1032,Elena Young,Samsung SmartThings Hub,7,69.99,2025-09-30,Asia,Smart Home
+1033,Felicia Stone,Nest Learning Thermostat,,249.99,2025-10-01,North America,Smart Home
+1034,George West,Apple Mac Mini,9,699.99,2025-10-02,Australia,Laptops
+1035,Hannah Fox,Sony Bravia TV,12,1399.99,2025-10-03,South America,Television
+1036,Ian Hill,Dell UltraSharp Monitor,6,499.
+

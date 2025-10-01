@@ -1,0 +1,12 @@
+CustomerID,FirstName,LastName,Gender,Age,Country,City,SignupDate,LastPurchaseDate,TotalPurchases,TotalSpend,AvgOrderValue,IsActive,LoyaltyTier,PreferredCategory,MarketingOptIn,DeviceType,LastSessionLength,DaysSinceLastLogin
+C1001,Alice,Smith,Female,29,USA,New York,2019-05-12,2023-09-15,45,2150.75,47.8,1,Gold,Electronics,1,Mobile,12.5,3
+C1002,Bob,Jones,Male,41,UK,London,2020-03-23,2022-11-30,5,312.00,62.4,0,Bronze,Clothing,0,Desktop,5.2,304
+C1003,Carla,Gonzalez,Female,35,Canada,Toronto,2018-10-01,2023-06-20,20,890.50,44.53,1,Silver,Grocery,1,Tablet,8.9,45
+C1004,David,Lee,Male,50,Australia,Sydney,2017-06-15,2021-07-05,12,420.00,35.00,0,Bronze,Books,0,Desktop,3.4,840
+C1005,Eva,Chen,Female,23,USA,San Francisco,2022-01-10,2023-10-01,30,1320.00,44.00,1,Gold,Fitness,1,Mobile,10.0,1
+C1006,Frank,White,Male,66,Germany,Berlin,2016-12-20,2020-12-01,8,210.00,26.25,0,Bronze,Home,0,Desktop,2.5,1065
+C1007,Grace,Kim,Female,38,USA,Chicago,2021-08-08,2023-08-30,18,875.00,48.61,1,Silver,Clothing,1,Mobile,7.3,32
+C1008,Hassan,Khan,Male,27,India,Mumbai,2023-02-05,2023-09-28,10,410.00,41.00,1,Bronze,Electronics,1,Mobile,6.1,5
+C1009,Ivy,Nakamura,Female,45,Japan,Tokyo,2020-09-11,2023-09-25,22,990.00,45.00,1,Gold,Beauty,0,Tablet,9.8,7
+C1010,Jack,O'Neil,Male,34,USA,Seattle,2019-04-19,2023-01-01,16,760.00,47.50,0,Silver,Grocery,1,Desktop,4.2,220
+

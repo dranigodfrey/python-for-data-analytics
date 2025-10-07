@@ -1,0 +1,3 @@
+Name,Email,Phone,SignupDate,Status
+Alice,alice@example.com,1234567890,2023-01-10,Active
+Bob,bob@email.com,1234567890,2023-01-01,Active

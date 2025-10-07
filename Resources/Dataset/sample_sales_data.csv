@@ -1,0 +1,5 @@
+Date,Product,Quantity,UnitPrice
+2023-01-01,Phone,2,699.99
+2023-01-02,Laptop,1,1099.99
+2023-01-03,Tablet,,399.99
+2023-01-04,Monitor,1,abc

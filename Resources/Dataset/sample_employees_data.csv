@@ -1,0 +1,7 @@
+EmployeeID,Name,Department,Salary,Status
+1,Alice,Sales,70000,Active
+2,Bob,Engineering,90000,Active
+3,Charlie,Sales,65000,Left
+4,Dana,Engineering,85000,Active
+5,Eli,HR,60000,Left
+6,Faith,Sales,72000,Active

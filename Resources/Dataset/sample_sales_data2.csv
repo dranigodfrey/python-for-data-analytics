@@ -1,0 +1,6 @@
+OrderID,Region,Category,Product,Price,Quantity,OrderDate
+1,West,Office Supplies,Pens,1.5,20,2023-01-12
+2,East,Furniture,Chair,85,2,2023-01-14
+3,South,Technology,Laptop,950,1,2023-02-02
+4,West,Furniture,Table,200,1,2023-02-11
+5,East,Office Supplies,Stapler,7.5,10,2023-03-05

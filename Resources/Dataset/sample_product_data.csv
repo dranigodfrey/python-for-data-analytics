@@ -1,0 +1,6 @@
+Product,Category,Price,Discount,Rating,Revenue,Region
+Notebook,Office Supplies,15,0.1,4.2,3000,East
+Monitor,Technology,200,0.15,4.7,8000,West
+Chair,Furniture,85,0.2,4.0,5000,South
+Pen,Office Supplies,1.5,0.05,4.1,1200,East
+Desk,Furniture,250,0.25,4.5,9500,North

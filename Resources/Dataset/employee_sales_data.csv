@@ -1,0 +1,22 @@
+employee_id,name,gender,age,experience,jobtitle,email,phone,hiredate,salary,location,status,department,region,category,product,sales,sales_date,quantity,price,rating,profit,discount
+E10001,Jane Doe,Female,34,10,Sales Manager,jane.doe@example.com,+1-555-123-4567,2015-06-15,85000,New York,Active,Sales,North America,Electronics,Smartphone X1,50000,2025-10-05,100,500,4.5,17500,10
+E10002,Linda Park,Female,34,8,Sales Executive,linda.park@example.com,+1-555-654-1123,2017-08-12,67000,Boston,Active,Sales,Europe,Electronics,Laptop Z2,40000,2025-09-28,80,500,4.3,14000,5
+E10003,John Smith,Male,29,6,Marketing Analyst,john.smith@example.com,+1-555-987-6543,2019-03-20,62000,Chicago,Active,Marketing,Asia,Fashion,Sneakers A2,15000,2025-09-22,75,200,4.2,5250,12
+E10004,David Lee,Male,29,5,Marketing Coordinator,david.lee@example.com,+1-555-231-7890,2020-05-15,58000,Chicago,Active,Marketing,Asia,Fashion,Sneakers A2,12000,2025-10-01,60,200,4.0,4200,10
+E10005,Alicia Wong,Female,41,15,Product Manager,alicia.wong@example.com,+1-555-234-6789,2010-11-01,97000,San Francisco,On Leave,Product,North America,Home Appliances,Vacuum Cleaner V5,23000,2025-08-14,46,500,4.8,8050,15
+E10006,Emily Davis,Female,41,18,Product Director,emily.davis@example.com,+1-555-876-3456,2008-06-25,112000,London,Active,Product,Europe,Home Appliances,Air Purifier A7,31000,2025-09-30,62,500,4.9,10850,10
+E10007,Raj Patel,Male,38,12,Software Engineer,raj.patel@example.com,+1-555-321-9876,2013-07-30,110000,Seattle,Active,Engineering,North America,Software,Subscription Suite S3,120000,2025-09-10,300,400,4.7,36000,8
+E10008,Samuel Kim,Male,38,14,Backend Developer,samuel.kim@example.com,+1-555-789-6543,2012-03-10,105000,Sydney,Active,Engineering,Australia,Software,App Framework F9,95000,2025-09-18,250,380,4.6,28500,5
+E10009,Sara Kim,Female,26,3,Customer Support Rep,sara.kim@example.com,+1-555-678-1234,2022-01-10,45000,Los Angeles,Active,Support,North America,Accessories,Phone Case P9,5000,2025-10-01,250,20,4.1,1750,25
+E10010,Nina Shah,Female,26,2,Customer Support Rep,nina.shah@example.com,+1-555-654-7788,2023-04-05,46000,São Paulo,Active,Support,South America,Accessories,Wireless Charger C1,6000,2025-10-02,200,30,4.0,2100,20
+E10011,Tom Nguyen,Male,45,20,Sales Director,tom.nguyen@example.com,+1-555-223-4455,2005-02-15,125000,New York,Active,Sales,North America,Electronics,Tablet T8,47000,2025-09-20,94,500,4.6,16450,7
+E10012,Rachel Adams,Female,34,9,Sales Specialist,rachel.adams@example.com,+1-555-888-4433,2016-04-01,72000,Berlin,Active,Sales,Europe,Electronics,Smartwatch S4,36000,2025-10-03,90,400,4.4,12600,12
+E10013,Brian Chen,Male,29,7,Marketing Analyst,brian.chen@example.com,+1-555-998-2234,2018-07-22,61000,Singapore,Active,Marketing,Asia,Fashion,Jacket J5,10000,2025-10-04,50,200,4.1,3500,10
+E10014,Karen Bell,Female,34,10,Sales Manager,karen.bell@example.com,+1-555-455-6677,2015-06-20,85000,Boston,Active,Sales,Europe,Electronics,Smartphone X1,52000,2025-10-05,104,500,4.5,18200,10
+E10015,Daniel Moore,Male,38,13,Software Engineer,daniel.moore@example.com,+1-555-223-9900,2012-11-11,108000,Melbourne,Active,Engineering,Australia,Software,Subscription Suite S3,118000,2025-09-15,295,400,4.6,35400,5
+E10016,Tina Lopez,Female,30,5,UX Designer,tina.lopez@example.com,+1-555-334-8822,2020-06-10,68000,Austin,Active,Design,North America,Software,UI Kit K3,22000,2025-09-25,55,400,4.3,7700,6
+E10017,Chris Allen,Male,30,5,UX Designer,chris.allen@example.com,+1-555-223-8899,2020-06-10,69000,Austin,Active,Design,South America,Software,UI Kit K3,21000,2025-09-25,52,400,4.2,7140,8
+E10018,Sophie Miller,Female,28,4,Marketing Specialist,sophie.miller@example.com,+1-555-332-4566,2021-01-15,59000,Tokyo,Active,Marketing,Asia,Fashion,Backpack B2,11000,2025-10-04,55,200,4.3,3850,10
+E10019,Marcus Young,Male,41,17,Product Manager,marcus.young@example.com,+1-555-665-7788,2009-10-01,98000,London,Active,Product,Europe,Home Appliances,Vacuum Cleaner V5,24000,2025-10-01,48,500,4.7,8400,12
+E10020,Isabella Grant,Female,30,6,Sales Executive,isabella.grant@example.com,+1-555-556-7789,2019-10-10,71000,Madrid,Active,Sales,Europe,Electronics,Smartphone X1,51000,2025-10-05,102,500,4.6,17850,10
+

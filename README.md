@@ -1,14 +1,14 @@
 # Python for Data Analytics 
 
 Welcome to the **Python for Data Analytics** course!  
-This beginner to intermediate program will equip you with **job-ready skills** for data analysis, from programming fundamentals to applied analytics,  data wrangling, visualization, and storytelling.
+This beginner to intermediate program will equip you with **skills** for data analysis, from programming fundamentals to applied analytics,  data wrangling, visualization, and storytelling.
 
 
 ## Course Overview
 
 - **Skill Level:** Beginners to Intermediate
 - **Duration:** 16 Weeks
-- **Format:** Jupyter Notebooks, mini-projects, real-world datasets
+- **Format:** Jupyter Notebooks, Exercises, Projects, Real-world datasets
 - **Tools:** Python, Jupyter, pandas, NumPy, matplotlib, seaborn, scikit-learn
 
 ---
